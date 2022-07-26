@@ -1,7 +1,7 @@
 {
-  "ref": "refs/heads/master",
-  "before": "c51c29255bfc017858ff829806b38ac163096343",
-  "after": "28bbb6c94af615fa34a15eef06ea5b55d37e4741",
+  "ref": "refs/heads/bruh-bruh",
+  "before": "0000000000000000000000000000000000000000",
+  "after": "34d5ba12a2b302291289b262e4a44cabf6bdbc85",
   "repository": {
     "id": 428083846,
     "node_id": "R_kgDOGYQKhg",
@@ -72,7 +72,7 @@
     "deployments_url": "https://api.github.com/repos/haseebuchiha/disco/deployments",
     "created_at": 1636939103,
     "updated_at": "2021-12-04T14:04:13Z",
-    "pushed_at": 1658734347,
+    "pushed_at": 1658736651,
     "git_url": "git://github.com/haseebuchiha/disco.git",
     "ssh_url": "git@github.com:haseebuchiha/disco.git",
     "clone_url": "https://github.com/haseebuchiha/disco.git",
@@ -129,40 +129,19 @@
     "type": "User",
     "site_admin": false
   },
-  "created": false,
+  "created": true,
   "deleted": false,
   "forced": false,
   "base_ref": null,
-  "compare": "https://github.com/haseebuchiha/disco/compare/c51c29255bfc...28bbb6c94af6",
+  "compare": "https://github.com/haseebuchiha/disco/commit/34d5ba12a2b3",
   "commits": [
     {
-      "id": "3906330176dae9980a7ba8f8d0ea50f6969b6ffe",
-      "tree_id": "6764b99815b1813ff88003bac4216ac201fda82f",
-      "distinct": false,
-      "message": "aa",
-      "timestamp": "2022-07-24T22:26:15+05:00",
-      "url": "https://github.com/haseebuchiha/disco/commit/3906330176dae9980a7ba8f8d0ea50f6969b6ffe",
-      "author": {
-        "name": "haseebcuhiha",
-        "email": "haseeb9009@gmail.com",
-        "username": "haseebuchiha"
-      },
-      "committer": {
-        "name": "haseebcuhiha",
-        "email": "haseeb9009@gmail.com",
-        "username": "haseebuchiha"
-      },
-      "added": ["bashscripttest.sh"],
-      "removed": [],
-      "modified": []
-    },
-    {
-      "id": "28bbb6c94af615fa34a15eef06ea5b55d37e4741",
-      "tree_id": "8b088bd7e3f3c8d5d081a7a05206e05229cf5048",
+      "id": "34d5ba12a2b302291289b262e4a44cabf6bdbc85",
+      "tree_id": "00a52865b77928d0190c612a9536cfa27dc9d47f",
       "distinct": true,
-      "message": "ggez",
-      "timestamp": "2022-07-25T12:31:44+05:00",
-      "url": "https://github.com/haseebuchiha/disco/commit/28bbb6c94af615fa34a15eef06ea5b55d37e4741",
+      "message": "bruh",
+      "timestamp": "2022-07-25T13:10:46+05:00",
+      "url": "https://github.com/haseebuchiha/disco/commit/34d5ba12a2b302291289b262e4a44cabf6bdbc85",
       "author": {
         "name": "haseebcuhiha",
         "email": "haseeb9009@gmail.com",
@@ -174,17 +153,17 @@
         "username": "haseebuchiha"
       },
       "added": [],
-      "removed": ["bashscripttest.sh"],
-      "modified": ["something.txt"]
+      "removed": [],
+      "modified": ["janix.txt"]
     }
   ],
   "head_commit": {
-    "id": "28bbb6c94af615fa34a15eef06ea5b55d37e4741",
-    "tree_id": "8b088bd7e3f3c8d5d081a7a05206e05229cf5048",
+    "id": "34d5ba12a2b302291289b262e4a44cabf6bdbc85",
+    "tree_id": "00a52865b77928d0190c612a9536cfa27dc9d47f",
     "distinct": true,
-    "message": "ggez",
-    "timestamp": "2022-07-25T12:31:44+05:00",
-    "url": "https://github.com/haseebuchiha/disco/commit/28bbb6c94af615fa34a15eef06ea5b55d37e4741",
+    "message": "bruh",
+    "timestamp": "2022-07-25T13:10:46+05:00",
+    "url": "https://github.com/haseebuchiha/disco/commit/34d5ba12a2b302291289b262e4a44cabf6bdbc85",
     "author": {
       "name": "haseebcuhiha",
       "email": "haseeb9009@gmail.com",
@@ -196,15 +175,15 @@
       "username": "haseebuchiha"
     },
     "added": [],
-    "removed": ["bashscripttest.sh"],
-    "modified": ["something.txt"]
+    "removed": [],
+    "modified": ["janix.txt"]
   },
   "controller": "github",
   "action": "create",
   "github": {
-    "ref": "refs/heads/master",
-    "before": "c51c29255bfc017858ff829806b38ac163096343",
-    "after": "28bbb6c94af615fa34a15eef06ea5b55d37e4741",
+    "ref": "refs/heads/bruh-bruh",
+    "before": "0000000000000000000000000000000000000000",
+    "after": "34d5ba12a2b302291289b262e4a44cabf6bdbc85",
     "repository": {
       "id": 428083846,
       "node_id": "R_kgDOGYQKhg",
@@ -275,7 +254,7 @@
       "deployments_url": "https://api.github.com/repos/haseebuchiha/disco/deployments",
       "created_at": 1636939103,
       "updated_at": "2021-12-04T14:04:13Z",
-      "pushed_at": 1658734347,
+      "pushed_at": 1658736651,
       "git_url": "git://github.com/haseebuchiha/disco.git",
       "ssh_url": "git@github.com:haseebuchiha/disco.git",
       "clone_url": "https://github.com/haseebuchiha/disco.git",
@@ -332,40 +311,19 @@
       "type": "User",
       "site_admin": false
     },
-    "created": false,
+    "created": true,
     "deleted": false,
     "forced": false,
     "base_ref": null,
-    "compare": "https://github.com/haseebuchiha/disco/compare/c51c29255bfc...28bbb6c94af6",
+    "compare": "https://github.com/haseebuchiha/disco/commit/34d5ba12a2b3",
     "commits": [
       {
-        "id": "3906330176dae9980a7ba8f8d0ea50f6969b6ffe",
-        "tree_id": "6764b99815b1813ff88003bac4216ac201fda82f",
-        "distinct": false,
-        "message": "aa",
-        "timestamp": "2022-07-24T22:26:15+05:00",
-        "url": "https://github.com/haseebuchiha/disco/commit/3906330176dae9980a7ba8f8d0ea50f6969b6ffe",
-        "author": {
-          "name": "haseebcuhiha",
-          "email": "haseeb9009@gmail.com",
-          "username": "haseebuchiha"
-        },
-        "committer": {
-          "name": "haseebcuhiha",
-          "email": "haseeb9009@gmail.com",
-          "username": "haseebuchiha"
-        },
-        "added": ["bashscripttest.sh"],
-        "removed": [],
-        "modified": []
-      },
-      {
-        "id": "28bbb6c94af615fa34a15eef06ea5b55d37e4741",
-        "tree_id": "8b088bd7e3f3c8d5d081a7a05206e05229cf5048",
+        "id": "34d5ba12a2b302291289b262e4a44cabf6bdbc85",
+        "tree_id": "00a52865b77928d0190c612a9536cfa27dc9d47f",
         "distinct": true,
-        "message": "ggez",
-        "timestamp": "2022-07-25T12:31:44+05:00",
-        "url": "https://github.com/haseebuchiha/disco/commit/28bbb6c94af615fa34a15eef06ea5b55d37e4741",
+        "message": "bruh",
+        "timestamp": "2022-07-25T13:10:46+05:00",
+        "url": "https://github.com/haseebuchiha/disco/commit/34d5ba12a2b302291289b262e4a44cabf6bdbc85",
         "author": {
           "name": "haseebcuhiha",
           "email": "haseeb9009@gmail.com",
@@ -377,17 +335,17 @@
           "username": "haseebuchiha"
         },
         "added": [],
-        "removed": ["bashscripttest.sh"],
-        "modified": ["something.txt"]
+        "removed": [],
+        "modified": ["janix.txt"]
       }
     ],
     "head_commit": {
-      "id": "28bbb6c94af615fa34a15eef06ea5b55d37e4741",
-      "tree_id": "8b088bd7e3f3c8d5d081a7a05206e05229cf5048",
+      "id": "34d5ba12a2b302291289b262e4a44cabf6bdbc85",
+      "tree_id": "00a52865b77928d0190c612a9536cfa27dc9d47f",
       "distinct": true,
-      "message": "ggez",
-      "timestamp": "2022-07-25T12:31:44+05:00",
-      "url": "https://github.com/haseebuchiha/disco/commit/28bbb6c94af615fa34a15eef06ea5b55d37e4741",
+      "message": "bruh",
+      "timestamp": "2022-07-25T13:10:46+05:00",
+      "url": "https://github.com/haseebuchiha/disco/commit/34d5ba12a2b302291289b262e4a44cabf6bdbc85",
       "author": {
         "name": "haseebcuhiha",
         "email": "haseeb9009@gmail.com",
@@ -399,8 +357,8 @@
         "username": "haseebuchiha"
       },
       "added": [],
-      "removed": ["bashscripttest.sh"],
-      "modified": ["something.txt"]
+      "removed": [],
+      "modified": ["janix.txt"]
     }
   }
 }
