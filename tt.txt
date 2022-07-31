@@ -1,12 +1,1 @@
-going to test with rails
-send create request. reason not known
-new stuff
-checking new stuff
-
-ok ok 
-
-ok 
-
-poppipi
-
 ok ok hello
